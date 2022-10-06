@@ -1,6 +1,6 @@
 ---
 name: User Story
-about: description...
+about: description
 title: ''
 labels: ''
 assignees: ''
