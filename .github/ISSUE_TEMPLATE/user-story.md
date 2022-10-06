@@ -1,6 +1,6 @@
 ---
 name: User Story
-about: just about description goes here...
+about: description...
 title: ''
 labels: ''
 assignees: ''
@@ -16,4 +16,4 @@ assignees: ''
 ```gherkin
 Given [some context]
 When [certain action is taken]
-Then [the outcome of action is observed]
+Then [the outcome of the action is observed]
